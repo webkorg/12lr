@@ -21,6 +21,14 @@ int main()
             cout << s1;
             return 0;
         }
+        if (strncmp(s1 + i, s2, len2) == 0)
+        {
+            int pos = 1;
+        }
+        else {
+            cout << s1;
+            return 0;
+        }
     }
    
 
